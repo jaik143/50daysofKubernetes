@@ -32,7 +32,6 @@ docker build -t myapp .
 docker images
 
 
-🔗 Resources
-🎥 Video by Piyush Sachdeva – A fantastic breakdown of container fundamentals.
-
-🔗 [LinkedIn Post – Day 1](https://www.linkedin.com/posts/jayanth-kadali-419798182_50daysofkubernetes-50daysofkubernetes-devops-activity-7344985777992278017-1f4w?utm_source=share&utm_medium=member_desktop&rcm=ACoAACsvxVUBlVzfuqI-4furY0Q3bEEbz89Z488)
+📎 Resources  
+🎥 Video by Piyush Sachdeva – A fantastic breakdown of container fundamentals.  
+[LinkedIn Post – Day 1](https://www.linkedin.com/posts/jayanth-kadali-419798182_50daysofkubernetes-50daysofkubernetes-devops-activity-7344985777992278017-1f4w?utm_source=share&utm_medium=member_desktop&rcm=ACoAACsvxVUBlVzfuqI-4furY0Q3bEEbz89Z488)
