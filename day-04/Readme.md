@@ -64,14 +64,4 @@ That’s where Kubernetes comes in — a powerful **container orchestration plat
 
 ---
 
-## 🔗 Resources
 
-- 📺 Video: *[Embed the Kubernetes series video for Day 4 here]*  
-- 📖 Blog Post: *Coming soon*  
-- 🐦 Social: Posted on [LinkedIn](#) | Tagging @PiyushSachdeva @CloudOps Community  
-- Hashtag: **#40DaysOfKubernetes**
-
----
-
-📌 **Next up:** Day 5 – Kubernetes Architecture Overview  
-Stay tuned!
